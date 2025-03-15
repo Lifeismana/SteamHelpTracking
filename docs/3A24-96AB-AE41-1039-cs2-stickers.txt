@@ -3,6 +3,7 @@
 [list]
 
 [*][url=#whatarestick]What are Stickers?[/url] [/*]
+[*][url=#where]Where do I get stickers from?[/url] [/*]
 [*][url=#movesticker]I have applied a Sticker and would like to move it. Can I do this?[/url] [/*]
 [*][url=#stickergone]Stickers on my weapon are not visible when I inspect in-game. Why is this?[/url] [/*]
 
@@ -15,9 +16,13 @@ Stickers in Counter-Strike 2 are single use in-game items that can be placed on 
 
 Once applied, stickers can be scraped to begin the removal process or to change their appearance. To do this, left-click on a weapon in your Counter-Strike 2 Inventory which has Stickers, select 'Scrape Sticker', and drag the scrape slider to achieve your desired look.
 
-Stickers can be purchased through in-game offers or from the [url=https://steamcommunity.com/market/]Community Market[/url].
-
 [b]Note:[/b] Scraping a Sticker cannot be undone. Once you have scraped a Sticker the results are permanent.
+[/section]
+
+[section id=where]
+
+[h2]Where do I get stickers from?[/h2]
+Stickers can be purchased through in-game offers, from the [url=https://steamcommunity.com/market/]Steam Community Market[/url], or redeemed from the Armory using Armory Credits.
 [/section]
 
 [section id=movesticker]

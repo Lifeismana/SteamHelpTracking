@@ -12,5 +12,6 @@ Detailed information about Counter-Strike 2 in-game items can be found at the li
 [*][url=https://help.steampowered.com/en/faqs/view/31E5-9B08-89C3-FBF3]Patches[/url] [/*]
 [*][url=https://support.steampowered.com/kb_article.php?ref=7737-ukvb-0657]Graffiti[/url] [/*]
 [*][url=https://help.steampowered.com/en/faqs/view/39E7-D702-2F49-AE2E]StatTrak Swap Tool[/url] [/*]
+[*][url=https://help.steampowered.com/en/faqs/view/5C99-9A2E-5179-F1B4]Charms[/url] [/*]
 
 [/list]

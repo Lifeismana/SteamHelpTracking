@@ -944,8 +944,8 @@
     "4189639217468477497": {
         "title": "CS2 - Stickers",
         "url_code": "3A24-96AB-AE41-1039",
-        "version": 1,
-        "timestamp": "2025-03-14 23:11:02"
+        "version": 3,
+        "timestamp": "2025-03-15 04:03:51"
     },
     "4191372603585165667": {
         "title": "Failed to Start Game (Missing Executable)",
@@ -1358,8 +1358,8 @@
     "5706435398068383642": {
         "title": "CS2 - In-game Items",
         "url_code": "4F31-54C2-B394-AF9A",
-        "version": 36,
-        "timestamp": "2025-03-15 00:18:59"
+        "version": 37,
+        "timestamp": "2025-03-15 03:52:10"
     },
     "5718041075055894628": {
         "title": "Portal 2 Perpetual Testing Initiative",
@@ -1618,6 +1618,12 @@
         "url_code": "5BB2-E986-A733-CF0E",
         "version": 55,
         "timestamp": "2025-01-09 17:55:39"
+    },
+    "6672533846652219828": {
+        "title": "CS2 - Charms",
+        "url_code": "5C99-9A2E-5179-F1B4",
+        "version": 1,
+        "timestamp": "2025-03-15 03:35:47"
     },
     "6710907134894229325": {
         "title": "Missing or scrambled text in-game",
