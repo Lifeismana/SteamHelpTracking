@@ -1,63 +1,16 @@
 [h1]CS2 - In-game Items[/h1]
 
-[section style=warning]Any Counter-Strike 2 item received in trade or purchased from the Community Market cannot be transacted again for seven days.
+Detailed information about Counter-Strike 2 in-game items can be found at the links below:
 
-Detailed information on this restriction can be found on the [url=https://blog.counter-strike.net/index.php/2018/03/20308/]Counter-Strike blog[/url].
-[/section]
+[list]
 
-[*][url=#servicemedals]Service Medals, Coins, and Display Items[/url] [/*]
-[*][url=#storageunits]Storage Units[/url] [/*]
-[*][url=#stickers]Stickers[/url]
-[*][url=#tradeups]Trade Up Contracts[/url]	 [/*]
-[*][url=#nametags]Name Tags[/url]   [/*]
-[*][url=#patches]Patches[/url]	 [/*]
-[*][url=#graffiti]Graffiti[/url]     [/*]
-[*][url=#swaptool]StatTrak Swap Tool[/url]
+[*][url=https://help.steampowered.com/en/faqs/view/55F0-5092-0365-2461]Service Medals, Coins, and Display Items[/url] [/*]
+[*][url=https://help.steampowered.com/en/faqs/view/52CE-419B-6C8D-2E50]Storage Units[/url] [/*]
+[*][url=https://help.steampowered.com/en/faqs/view/3A24-96AB-AE41-1039]Stickers[/url] [/*]
+[*][url=https://help.steampowered.com/en/faqs/view/0151-608B-BCAA-D7D5]Trade Up Contracts[/url] [/*]
+[*][url=https://help.steampowered.com/en/faqs/view/5F9C-37F6-508D-2C69]Name Tags[/url] [/*]
+[*][url=https://help.steampowered.com/en/faqs/view/31E5-9B08-89C3-FBF3]Patches[/url] [/*]
+[*][url=https://support.steampowered.com/kb_article.php?ref=7737-ukvb-0657]Graffiti[/url] [/*]
+[*][url=https://help.steampowered.com/en/faqs/view/39E7-D702-2F49-AE2E]StatTrak Swap Tool[/url] [/*]
 
-[section id=servicemedals]
-
-[h2]Service Medals, Coins, and Display Items[/h2]
-Detailed information about Service Medals, Coins, and Display Items can be found [url=https://help.steampowered.com/en/faqs/view/55F0-5092-0365-2461]here[/url].
-[/section]
-
-[section id=storageunits]
-
-[h2]Storage Units[/h2]
-Detailed information about Storage Units can be found [url=https://help.steampowered.com/en/faqs/view/52CE-419B-6C8D-2E50]here[/url].
-[/section]
-
-[section id=stickers]
-
-[h2]Stickers[/h2]
-Detailed information about Stickers can be found [url=https://help.steampowered.com/en/faqs/view/3A24-96AB-AE41-1039]here[/url].
-[/section]
-
-[section id=tradeups]
-
-[h2]Trade Up Contracts[/h2]
-Detailed information about Trade Up Contracts can be found [url=https://help.steampowered.com/en/faqs/view/0151-608B-BCAA-D7D5]here[/url].
-[/section]
-
-[section id=nametags]
-
-[h2]Name Tags[/h2]
-Detailed information about Name Tags can be found [url=https://help.steampowered.com/en/faqs/view/5F9C-37F6-508D-2C69]here[/url].
-[/section]
-
-[section id=patches]
-
-[h2]Patches[/h2]
-Detailed information about Patches can be found [url=https://help.steampowered.com/en/faqs/view/31E5-9B08-89C3-FBF3]here[/url].
-[/section]
-
-[section id=graffiti]
-
-[h2]Graffiti information[/h2]
-Detailed information about Graffiti can be found [url=https://support.steampowered.com/kb_article.php?ref=7737-ukvb-0657]here[/url].
-[/section]
-
-[section id=swaptool]
-
-[h2]StatTrak Swap Tool[/h2]
-Detailed information about StatTrak Swap Tools can be found [url=https://help.steampowered.com/en/faqs/view/39E7-D702-2F49-AE2E]here[/url].
-[/section]
+[/list]
